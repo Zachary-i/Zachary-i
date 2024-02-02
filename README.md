@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Zachary (he/him/his), a MEng Computer Science student at Queen's University Belfast. I have a particular interest in Computational Biology, High-Performance Computing, and Graphics/ Physics Engines.
+
+I've only recently begun tracking my project on GitHub so expect to see more here soon.
+
 <!--
 **Zachary-i/Zachary-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
